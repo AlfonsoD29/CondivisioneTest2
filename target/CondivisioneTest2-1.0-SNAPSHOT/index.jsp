@@ -8,9 +8,7 @@
 <h1><%= "Hello World!" %>
 
     <h1><%= "La Vedete questa scritta??" %>
-    </h1>
-
-    <h2>Si la vedo amico</h2>
+</h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 </body>
