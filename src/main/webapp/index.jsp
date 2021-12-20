@@ -7,7 +7,7 @@
 <body>
 
 
-    <h1><%= "La asasdVedete questa scritta??" %>
+    <h1><%= "??" %>
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
